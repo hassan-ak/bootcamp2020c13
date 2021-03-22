@@ -29,3 +29,29 @@ Practice Project
 
 External Links
 * [The Tiny Short Animation Trend in Web Design](https://speckyboy.com/short-animation-web-design/)
+
+* * * 
+
+Practice Project
+* Bootcamp 2020 Bonus/Extra Project 5: Build an Animated React Website which follows the Latest Trends like Animated Illustrations
+
+External Links
+* [The 8 Biggest Web Design Trends of 2020](https://www.crowdspring.com/blog/web-design-trends-2020/)
+* [20 Extraordinary Web Design Ideas That Will Get Everyone Clicking](https://www.jeffbullas.com/web-design-ideas/)
+* [Neat Website](https://thisisneat.com.au/)
+* [Pitch Website](https://pitch.com/)
+* [Beautiful, free illustrations](https://www.drawkit.io/)
+* [Free illustrations](https://freellustrations.com/)
+* [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
+* [Best websites that use Illustration and Animation](https://madebyshape.co.uk/web-design-blog/best-websites-that-use-illustration-and-animation/)
+* [22 Websites with Impressive Illustrations and Animations](https://www.thebestdesigns.com/collections/websites-with-bold-colorful-illustrations-and-animations)
+* [10 Inspiring Websites with Gorgeous Animations](https://1stwebdesigner.com/10-inspiring-websites-with-gorgeous-animations/)
+* [Animated Sites](https://www.cssdesignawards.com/website-gallery?feature=animated)
+* [8 Best Animated Websites](https://www.mockplus.com/blog/post/best-animated-websites)
+* [Best Website examples of designs with animation](https://www.awwwards.com/websites/animation/)
+* [Creative Tools to Generate AI Art](https://aiartists.org/ai-generated-art-tools)
+* [Magenta.js](https://magenta.tensorflow.org/get-started/#magenta-js)
+* [Web Demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html)
+* [Magenta Tool](https://style-transfer.glitch.me/)
+* [Sketch-RNN-JS: A Generative Model for Vector Drawings](https://github.com/magenta/magenta-demos/blob/master/sketch-rnn-js/README.md)
+* [Auto Draw: An AI Experiment](https://www.autodraw.com/)
