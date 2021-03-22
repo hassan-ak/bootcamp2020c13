@@ -12,3 +12,12 @@ External Links
 
 Deployment
 * [Live Demo](http://hassanalikhan-bc2020c13.surge.sh/)
+
+* * * 
+
+Practice Project
+* Bootcamp 2020 Project 4A: Red Queen’s Race with Web Animation API and React Hooks
+
+External Links
+* [Code and Demo](https://codepen.io/rachelnabors/pen/PNGGaV)
+* [Source Article](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
