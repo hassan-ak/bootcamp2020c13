@@ -21,3 +21,11 @@ Practice Project
 External Links
 * [Code and Demo](https://codepen.io/rachelnabors/pen/PNGGaV)
 * [Source Article](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API)
+
+* * * 
+
+Practice Project
+* Bootcamp 2020 Project 4B: Develop Tiny Short Animation with React Hooks
+
+External Links
+* [The Tiny Short Animation Trend in Web Design](https://speckyboy.com/short-animation-web-design/)
